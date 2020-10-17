@@ -1,0 +1,12 @@
+1. Create a main project in github
+2. Clone it where you want
+      Example:
+        cd documents
+        cd frameworks
+        git clone https://github....
+3. Create a empty project in Intellij (new -> project -> empty project)
+4. Enter the project name and location that you created above
+5. Add new module (these will be the sub-projects)
+6. Enter "Spring-00-TightlyCoupled"
+
+
