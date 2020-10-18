@@ -15,7 +15,7 @@
       <module name="Demo" target="11" />
       <module name="demo" target="11" />
       <module name="Spring-01-SpringContainer" target="6" />
-      <module name="Spring-02-DI-ConstructorInjection" target="1.5" />
+      <module name="Spring-02-DI-ConstructorInjection" target="1.7" />
       <module name="SprintBootDemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
