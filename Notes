@@ -1,0 +1,30 @@
+1. Create a main project in github
+2. Clone it where you want
+      Example:
+        cd documents
+        cd frameworks
+        git clone https://github....
+3. Create a empty project in Intellij (new -> project -> empty project)
+4. Enter the project name and location that you created above
+5. Add new module (these will be the sub-projects)
+6. Enter "Spring-00-TightlyCoupled"
+
+7. Add new module
+8. Enter "Spring-00-LooselyCoupled"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+FOR MVN WRAPPER: https://github.com/takari/takari-maven-plugin
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Spring Framework 5.1
+* Spring makes it easy to create Java enterprise applications.
+
+The Spring Framework is divided into modules.
+Applications can choose which modules they need.
+
+At the heart are the modules of the core container, including a
+configuration model and a dependency injection mechanism.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Creating a Spring Boot-based application, provides a quick way to
+create a production-ready Spring-based application.
