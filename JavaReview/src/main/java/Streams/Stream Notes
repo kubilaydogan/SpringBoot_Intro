@@ -1,0 +1,24 @@
+
+FOR RANDOM:
+IntStream  + boxed() => Stream<Integer>
+                        Stream<Integer>  + collect(Collectors.toList())  ==> List
+
+FOR INTEGERS
+List<Integer>  + stream()   => Stream<Integer>
+                               Stream<Integer>  + collect(Collectors.toList())  ==> List<Integer>
+
+FOR STRING
+List<String>  + stream()   => Stream<String>
+                              Stream<String>  + collect(Collectors.toList())  ==> List<String>
+
+
+
+stream() returns a Stream, and then we use the filter() method, which accepts a Predicate.
+Since the java.util.function.Predicate is a functional interface (an interface with just one
+abstract method), we can pass lambda expression instead of an instance of the Predicate interface.
+Here we can define code to specify a condition.
+
+long num = strList.stream()
+                  .filter(x -> x.length()> 3)
+                  .count();
+
