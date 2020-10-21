@@ -6,7 +6,16 @@
         <option value="$PROJECT_DIR$/Spring-01-SpringContainer/pom.xml" />
         <option value="$PROJECT_DIR$/demo/pom.xml" />
         <option value="$PROJECT_DIR$/../Spring-02-DI-ConstructorInjection/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo/JavaReview/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaReview/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-02-Injection/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Spring-02-DI-SetterInjection/Spring-02-Injection/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="false" project-jdk-name="11" project-jdk-type="JavaSDK">

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="officeHours" class="com.cybertek.services.OfficeHours"></bean>
+    <bean id="java" class="com.cybertek.services.Java">
+        <!-- set up constructor injection -->
+        <constructor-arg ref = "officeHours"/>
+        <!-- java class contructor use officeHours as parameter -->
+    </bean>
+
+
+
+
+
+</beans>

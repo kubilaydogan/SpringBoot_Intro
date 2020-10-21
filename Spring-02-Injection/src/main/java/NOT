@@ -1,0 +1,20 @@
+Why You Should Use Constructor Injection in Spring?
+
+What is Dependency Injection?
+Dependency: An object usually requires objects of other classes to perform its operations. We call these objects dependencies.
+Injection: The process of providing the required dependencies to an object.
+
+Dependency injection is an approach to implement loose coupling among the classes in an application.
+There are different ways of injecting dependencies.
+ - constructor-based injection,
+ - setter-based injection, or
+ - field-based injection.
+
+But constructor injection is the preferred way.
+
+Dependency injection helps in implementing inversion of control (IoC).
+This means that the responsibility of object creation and injecting the dependencies
+is given to the framework (i.e. Spring) instead of the class creating the dependency
+objects by itself.
+
+

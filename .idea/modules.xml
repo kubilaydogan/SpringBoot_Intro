@@ -3,10 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaReview/JavaReview.iml" filepath="$PROJECT_DIR$/JavaReview/JavaReview.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-00-LooselyCoupled/Spring-00-LooselyCoupled.iml" filepath="$PROJECT_DIR$/Spring-00-LooselyCoupled/Spring-00-LooselyCoupled.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-00-TightlyCoupled/Spring-00-TightlyCoupled.iml" filepath="$PROJECT_DIR$/Spring-00-TightlyCoupled/Spring-00-TightlyCoupled.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-01-SpringContainer/Spring-01-SpringContainer.iml" filepath="$PROJECT_DIR$/Spring-01-SpringContainer/Spring-01-SpringContainer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Spring-02-DI-ConstructorInjection/Spring-02-DI-ConstructorInjection.iml" filepath="$PROJECT_DIR$/../Spring-02-DI-ConstructorInjection/Spring-02-DI-ConstructorInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/Spring-02-DI-ConstructorInjection.iml" filepath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/Spring-02-DI-ConstructorInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-02-Injection/Spring-02-Injection.iml" filepath="$PROJECT_DIR$/Spring-02-Injection/Spring-02-Injection.iml" />
     </modules>
   </component>
 </project>
